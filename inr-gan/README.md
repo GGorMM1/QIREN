@@ -1,4 +1,4 @@
-This part of the code is mainly built on stylegan2 (https://github.com/NVlabs/stylegan2-ada-pytorch) and inr-gan (https://github.com/universome/inr-gan). Modified code mainly in training.
+This part of the code is mainly built on stylegan2 (https://github.com/NVlabs/stylegan2-ada-pytorch) and inr-gan (https://github.com/universome/inr-gan). Modified code mainly in ```training```.
 ## Dataset
 https://pan.baidu.com/s/1YiBbRmnWsGV8Tr959y3EuA  code: da4h 
 ## Getting started
