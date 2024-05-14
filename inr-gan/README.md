@@ -8,4 +8,4 @@ You can run the code with the following command
 
 You can calculate the FID score of the model through this line of code
 
-```python calc_metrics.py --metrics=fid50k_full --data=./data/FFHQ32x32.zip --mirror=1 --network=./training-runs/00095-FFHQ32x32-auto8/network-snapshot-000403.pkl --gpus=8```
+```python calc_metrics.py --metrics=fid50k_full --data=./data/FFHQ32x32.zip --mirror=1 --network=./training-runs/00095-FFHQ32x32-auto4/network-snapshot-000403.pkl --gpus=4```
